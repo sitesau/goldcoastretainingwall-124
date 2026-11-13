@@ -1,0 +1,22 @@
+{
+  "wheel_id": 888,
+  "structure": "umbrella",
+  "slug": "goldcoastretainingwall-124",
+  "project": "retaining-wall-builders-gold-coast-beginner-guide-332e03e700134",
+  "parent_t1_ref": "goldcoastretainingwall-161",
+  "node_role": "feeder",
+  "money_target": "goldcoastretainingwall.net.au",
+  "primary_kw": "retaining wall builders gold coast beginner guide",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-builders-gold-coast-beginner-guide-332e03e700134/",
+  "tier": "T2",
+  "writeback_nonce": "978f433e9bc748b0",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-builders-gold-coast-checklist-eb60f96637394e1d95.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "retaining wall builders gold coast checklist explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
